@@ -17,7 +17,8 @@ color: #FFF;
 
 export const ListLinks = styled.FlatList`
 margin-top: ${Platform.OS === 'ios' ? 35+'%' : 20+'%' };
-margin-left: 20px;
+margin-left: 15px;
+margin-right: 15px;
 font-size: 33px;
 font-weight: bold;
 color: #FFF;
